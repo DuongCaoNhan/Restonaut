@@ -1,0 +1,6 @@
+@Restonaut_HostAddress = http://localhost:5226
+
+GET {{Restonaut_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
